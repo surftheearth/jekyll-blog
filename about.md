@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Me!
+title: Me
 permalink: /Adriri's blog/
 ---
 
@@ -8,8 +8,8 @@ Honestly I'm just having fun on here! I can talk about whatever really... Music?
 
 ### "Surf the Earth"
 
-.
+Okidoki
 
 ### To be edited
 
-.
+Lesgo
