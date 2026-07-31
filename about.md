@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Me!
+permalink: /Adriri's blog/
 ---
 
-Some information about you!
+Honestly I'm just having fun on here! I can talk about whatever really... Music? Oh I can't wait to list 'em all the non-skippable Hong Kong 60s albums. Feelings? Harder than music for sure but why not! Nature? The coolest gift we ever got. Clothes, hairstyles; fashion? Yes babe. Trascendental and existential thoughts? You got it! Just so excited to share :) All from a seventeen year-old girl who's most DEFENINETLY going through IT. Isn't it cool tho?
 
-### More Information
+### "Surf the Earth"
 
-A place to include any other types of information that you'd like to include about yourself.
+.
 
-### Contact me
+### To be edited
 
-[email@domain.com](mailto:email@domain.com)
+.
