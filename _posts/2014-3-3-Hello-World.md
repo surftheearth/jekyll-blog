@@ -9,8 +9,6 @@ title: In another life & all the lives I want to live
 - In another life him and I would be legendary lovers.
 - In another life…
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 “In another life”… How can solely three words bring so much comfort and peace?
 How can they be so comforting for a person who does not believe in reincarnation?
 How can they comfort us so deeply if, when we stop to think about it, we can easily realise how unimaginable and impossible our ideas can be?
